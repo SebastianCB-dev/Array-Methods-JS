@@ -11,7 +11,6 @@ console.log(b);
 console.log(d);
 
 // Copy of an array
-
 const copy_a = a.concat();
 
 console.log('Copy of a:', copy_a)
